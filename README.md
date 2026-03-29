@@ -7,14 +7,14 @@ visualized.
 We utilize python OpenCV to show the preprocessing
 steps based on the task and dataset
 ## Usage
-Step 1
+### Step 1
 Clone Repository on your machine
-Step 2
+### Step 2
 Install requirements.txt
 ```python
 pip install requirements.txt
 ```
-Step 3
+### Step 3
 Run the code with the corresponding flags
 ```python
 python src/main.py --mode [MODE] --input /path/to/dataset.txt
