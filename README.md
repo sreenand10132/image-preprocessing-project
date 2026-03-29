@@ -17,6 +17,6 @@ pip install requirements.txt
 ### Step 3
 Run the code with the corresponding flags
 ```python
-python src/main.py --mode [MODE] --input /path/to/dataset.txt
+python src/main.py --mode [MODE] --input /path/to/image(s)
 ```
 MODES : classification, segmentation, edges
